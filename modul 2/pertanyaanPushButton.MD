@@ -16,7 +16,7 @@ berikan penjelasan disetiap baris kode nya dalam bentuk README.md!
 
 Berikut adalah gambar rangkaian schematic yang digunakan pada percobaan:
 
-![Rangkaian Push Button](dokumentasi/pushbutton.jpg)
+![Rangkaian Push Button](dokumentasi/pushButton.jpg)
 
 ---
 
